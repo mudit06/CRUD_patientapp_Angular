@@ -1,0 +1,73 @@
+{
+  "Patient": [
+    {
+      "id": 1,
+      "name": "Berny Posten",
+      "gender": "M",
+      "physician": "Léa",
+      "Disease": "Greenstick fx shaft of rad, left arm, subs for fx w malunion"
+    },
+    {
+      "id": 2,
+      "name": "Kimberlyn Regus",
+      "gender": "M",
+      "physician": "Kallisté",
+      "Disease": "Nondisp spiral fx shaft of rad, r arm, 7thP"
+    },
+    {
+      "id": 3,
+      "name": "Glad Leaning",
+      "gender": "F",
+      "physician": "Bénédicte",
+      "Disease": "Puncture wound with foreign body of unsp forearm, sequela"
+    },
+    {
+      "id": 4,
+      "name": "Willem Monini",
+      "gender": "M",
+      "physician": "Béatrice",
+      "Disease": "Diseases of the dgstv sys comp pregnancy, second trimester"
+    },
+    {
+      "id": 5,
+      "name": "Jon Tathacott",
+      "gender": "M",
+      "physician": "Maéna",
+      "Disease": "Displ pilon fx l tibia, 7thJ"
+    },
+    {
+      "id": 6,
+      "name": "Nigel Knox",
+      "gender": "F",
+      "physician": "Réservés",
+      "Disease": "Dislocation of interphalangeal joint of unsp toe(s), subs"
+    },
+    {
+      "id": 7,
+      "name": "Berenice Titley",
+      "gender": "F",
+      "physician": "Maéna",
+      "Disease": "Nondisp fx of epiphy (separation) (upper) of r femr, 7thH"
+    }
+  ],
+  "Physician": [
+    {
+      "name": "mudit",
+      "password": "123",
+      "contact": 123,
+      "id": 1
+    },
+    {
+      "name": "naman",
+      "password": "987",
+      "contact": 987,
+      "id": 2
+    },
+    {
+      "name": "naman",
+      "password": "1234",
+      "contact": 1234,
+      "id": 3
+    }
+  ]
+}
